@@ -1,0 +1,29 @@
+<content># Version control
+.git
+.gitignore
+.github
+
+# Dependencies
+node_modules
+npm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Development files
+.bolt
+README.md
+*.md
+.vscode
+.idea
+
+# Build output
+dist
+build
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db</content>
